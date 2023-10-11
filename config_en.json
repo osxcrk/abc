@@ -1,0 +1,42 @@
+{
+    "approvedApp": true,
+    "value": "phimhd",
+    "key": "startApp",
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuaWNrTmFtZSI6IlRpdHRpazQ4ODA5NTk4IiwiY291bnRyeUNvZGUiOiI4NCIsImN1cnJlbnRUaW1lTWlsbGlzIjoxNjU2Mjk1NTU2MDY2LCJtb2JpbGUiOiI5NjI2NzIyNDAiLCJleHAiOjE2NTg4ODc1NTYsInVzZXJJZCI6NTY3ODg5NX0.d1VWiNU9Yg67JlNesbHIwGQ39Me_V5Zp7g2kFuASqF0",
+    "version": 109,
+    "config": "Xem phim online",
+    "urlApiGetStream": "",
+    "streamByWebEmbed": true,
+    "premium" : "3,/3 months",
+    "unlimited" : "10,/Unlimited",
+    "listServers" : "",
+    "movieOnlyForPremium": true,
+    "watchAdsToAccessPremiumMovie": true,
+    "urlImagePoster": "", 
+    "urlRedirectPoster": "",
+    "vast":null,
+    "isRequired": true,
+    "isBanned": "Bố Già (Bản Điện Ảnh)",
+    "needToGetLink": "https://fmovies.app/,",
+    "isPermitFullscreen": "api.phimtor.com,",
+    "idPlaerToGetLink": "watch-iframe,",
+    "urlPrivacy": "https://play.google.com/store/apps/details?id=com.javhd18",
+    "showUpgradeMethod": true,
+    "phone": "0388016886",
+    "urlPaymentPaypal": "https://paypal.me",
+    "urlPaymentMomo": "https://nhantien.momo.vn/0388016886",
+    "defaultContentPopUpAds": "<font color=#FFFFFF><b>Nội dung Premium</b></font><br><br><font color=#FFFFFF>Vui lòng nâng cấp gói</font> <font color=#FF1D1D>Premium/Unlimited</font> <font color=#FFFFFF>để mở khóa kho phim VIP với chất lượng cao nhất!</font><br>",
+    "__v": 0,
+    "listBanners":null,
+      "listRenaming":[
+        {
+          "original":"SoraStream",
+          "newName":"PhimCLC"
+        },
+        {
+          "original":"SuperStream",
+          "newName":"Phim 4K"
+        }
+      ],
+      "listApiSupportedByPhimHD": ["Phimmoichill","Chillhay","BongNgoTV","Bilutv","Xem8z","Bluphim","Motphim","JavHD","VLXX","Sextop1","Phim1080","Tocanime","Fshare","SubNhanh","Phimmoi","TVHay","Ổ Phim","SoraStream","SuperStream","Bóng Đá & Tivi Online"]
+}
