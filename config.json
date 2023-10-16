@@ -127,8 +127,8 @@
             "isEnable" : true
         } 
     ],
-    "movieOnlyForPremium": true,
-    "watchAdsToAccessPremiumMovie": true,
+    "movieOnlyForPremium": false,
+    "watchAdsToAccessPremiumMovie": false,
     "urlImagePoster": "",
     "urlRedirectPoster": "",
     "isRequired": false,
@@ -137,7 +137,7 @@
     "isPermitFullscreen": "api.phimtor.com,",
     "idPlayerToGetLink": "watch-iframe,",
     "urlPrivacy": "",
-    "showUpgradeMethod": true,
+    "showUpgradeMethod": false,
     "phone": "0388016886",
     "urlPaymentPaypal": "https://paypal.me/",
     "urlPaymentMomo": "https://nhantien.momo.vn/0388016886",
