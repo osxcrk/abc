@@ -1,9 +1,9 @@
-{1
+{
     "approvedApp": true,
     "value": "phimhd",
     "key": "startApp",
     "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuaWNrTmFtZSI6IlRpdHRpazQ4ODA5NTk4IiwiY291bnRyeUNvZGUiOiI4NCIsImN1cnJlbnRUaW1lTWlsbGlzIjoxNjU2Mjk1NTU2MDY2LCJtb2JpbGUiOiI5NjI2NzIyNDAiLCJleHAiOjE2NTg4ODc1NTYsInVzZXJJZCI6NTY3ODg5NX0.d1VWiNU9Yg67JlNesbHIwGQ39Me_V5Zp7g2kFuASqF0",
-    "version": 180,
+    "version": 80,
     "config": "_ga=GA1.2.1977961335.1608446401; fbm_259774944661214=base_domain=; user_id=18485; user_pw_hash=498f93f3bd71a7f5344b72891e4de52c; login=true; __cfduid=dd3b5184652eaec6b32df079dd04a2ec01617642913; myModalFacebook=1; TOKEN=r7imvuge0jhfbf7geprshek6v4; _gid=GA1.2.1514703881.1619865776; _pop=1; _gat_gtag_UA_111308051_1=1",
     "urlApiGetStream": "",
     "streamByWebEmbed": true,
@@ -137,10 +137,10 @@
     "isPermitFullscreen": "api.phimtor.com,",
     "idPlayerToGetLink": "watch-iframe,",
     "urlPrivacy": "",
-    "showUpgradeMethod": false,
-    "phone": "0388016886",
-    "urlPaymentPaypal": "https://paypal.me/",
-    "urlPaymentMomo": "https://nhantien.momo.vn/0388016886",
+    "showUpgradeMethod": true,
+    "phone": "",
+    "urlPaymentPaypal": "",
+    "urlPaymentMomo": "",
     "defaultContentPopUpAds": "<font color=#FF1D1D>Phim sẽ được phát sau khi bạn xem hết quảng cáo.</font><br><br>Do thiếu hụt kinh phí duy trì máy chủ nên vài quảng cáo sẽ xuất hiện có thể gây khó chịu, mong các bạn thông cảm đợi xem hết quảng cáo, 3s sau sẽ có nút X để tắt quảng cáo<br>",
     "__v": 0
 }
