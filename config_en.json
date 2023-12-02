@@ -21,15 +21,13 @@
     "isPermitFullscreen": "api.phimtor.com,",
     "idPlayerToGetLink": "SoraStream",
     "urlPrivacy": "https://play.google.com/store/apps/details?id=com.javhd18",
-    "showUpgradeMethod": false,
-    "phone": "24324432",
-    "urlPaymentPaypal": "http://www.wwww.www",
-    "urlPaymentMomo": "http://www.wwww.www",
+    "showUpgradeMethod": true,
+    "phone": "0388016886",
+    "urlPaymentPaypal": "https://paypal.me/0388016886",
+    "urlPaymentMomo": "https://nhantien.momo.vn/0388016886",
     "defaultContentPopUpAds": "<font color=#FFFFFF><b>Nội dung Premium</b></font><br><br><font color=#FFFFFF>Vui lòng nâng cấp gói</font> <font color=#FF1D1D>Premium/Unlimited</font> <font color=#FFFFFF>để mở khóa kho phim VIP với chất lượng cao nhất!</font><br>",
     "__v": 0,
     "listBanners":null,
-      
-     
       "listRenaming":[
         {
           "original":"SoraStream",
@@ -40,5 +38,5 @@
           "newName":"Phim 4K"
         }
       ],
-      "listApiSupportedByPhimHD": ["BongNgoTV","Bilutv","NguonC","Phimmoiyyy","Phimbom","Chillhay","Chill","Motphimhan","Xem8z","Bluphim","Motphim","JavHD","VLXX","Sextop1","Phim1080","Tocanime","Fshare","Fshare-test","SubNhanh","Phimmoi","Phimmoi-test","TVHay","Ổ Phim","SoraStream","SuperStream","Bóng Đá & Tivi Online"]
+      "listApiSupportedByPhimHD": ["BongNgoTV","Bilutv","Xem8z","Bluphim","Motphim","JavHD","VLXX","Sextop1","Phim1080","Tocanime","Fshare","Fshare-test","SubNhanh","Phimmoi","Phimmoi-test","TVHay","Ổ Phim","SoraStream","SuperStream","Bóng Đá & Tivi Online"]
 }

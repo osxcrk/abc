@@ -127,20 +127,20 @@
             "isEnable" : true
         } 
     ],
-    "movieOnlyForPremium": false,
-    "watchAdsToAccessPremiumMovie": false,
+    "movieOnlyForPremium": true,
+    "watchAdsToAccessPremiumMovie": true,
     "urlImagePoster": "",
     "urlRedirectPoster": "",
-    "isRequired": true,
+    "isRequired": false,
     "isBanned": "Bố Già (Bản Điện Ảnh)",
     "needToGetLink": "https://fmovies.app/,",
     "isPermitFullscreen": "api.phimtor.com,",
     "idPlayerToGetLink": "watch-iframe,",
     "urlPrivacy": "",
-    "showUpgradeMethod": false,
-    "phone": "6456456456",
-    "urlPaymentPaypal": "http://www.wwww.www",
-    "urlPaymentMomo": "http://www.wwww.www",
+    "showUpgradeMethod": true,
+    "phone": "0388016886",
+    "urlPaymentPaypal": "https://paypal.me/0388016886",
+    "urlPaymentMomo": "https://nhantien.momo.vn/0388016886",
     "defaultContentPopUpAds": "<font color=#FF1D1D>Phim sẽ được phát sau khi bạn xem hết quảng cáo.</font><br><br>Do thiếu hụt kinh phí duy trì máy chủ nên vài quảng cáo sẽ xuất hiện có thể gây khó chịu, mong các bạn thông cảm đợi xem hết quảng cáo, 3s sau sẽ có nút X để tắt quảng cáo<br>",
     "__v": 0
 }
