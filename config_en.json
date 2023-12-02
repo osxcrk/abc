@@ -6,7 +6,7 @@
     "version": 115,
     "config": "BongNgoTV đã có phiên bản 5.7.3 cập nhật với nhiều tính năng hấp dẫn! Tải ngay tại đây...",
     "urlApiGetStream": "",
-    "streamByWebEmbed": true,
+    "streamByWebEmbed": false,
     "premium" : "3,/3 months",
     "unlimited" : "10,/Unlimited",
     "listServers" : "",
