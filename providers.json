@@ -296,7 +296,7 @@
     },
     "PhimChillProvider": {
         "name": "Phimmoi",
-        "url": "https://phimmoichillc.net",
+        "url": "https://phimmoichill.boo",
         "status": 1
     },
     "Phim247Provider": {
@@ -311,7 +311,7 @@
     },
     "AnimeVietsubProvider": {
         "name": "Nguồn AnimeVietsub",
-        "url": "http://animevietsub.in",
+        "url": "http://animevietsub.lol",
         "status": 1
     },
     "ApiMDB": {
